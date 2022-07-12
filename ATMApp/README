@@ -1,0 +1,14 @@
+Rony Richard
+CSE 210 Final
+ATM Simulator
+
+This Program Replicates your Everyday ATM Machine. It is multiple functionality with things like Withdrawl, Deposit, Balance Check, Transfer, and Transaction History.
+
+Account Information:
+
+Id=1, Jeff Bezos, Account_Number: 978417, Card_Number: 8829981639096658, Card_Pin: 986081, Account_Balance: 50000000.00m, IsLocked=false
+
+Id=2, John Doe, Account_Number: 809908, Card_Number: 3872823715812613, Card_Pin: 715616, Account_Balance: 4000.00m, IsLocked=false
+
+Id=3, Jane Doe, Account_Number: 032702, Card_Number: 2970678253691593, Card_Pin: 051278, Account_Balance: 2000.00m, IsLocked=true
+
